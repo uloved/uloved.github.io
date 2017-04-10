@@ -1,7 +1,7 @@
 {
   "avatar": "/moka-png.png",
   "title": " SHI LI Blog ",
-  "description": " English Web, Node Dev ",
+  "description": " English Teaching Web",
 
   "mainInfoColor": "",
   "canvasColor": "",
@@ -21,15 +21,15 @@
   },
   "projects": [
     {
-      "title": "English Theme",
-      "image": "https://segmentfault.com/img/bVEjtX",
+      "title": "English Teaching Web",
+      "image": "",
       "link": "https://uloved.github.io/"
     }
   ],
 
   "icon": [
     {
-      "weibo": "https://www.weibo.com/andrewlwang"
+      "weibo": "http://weibo.com/u/andrewlwang"
     },
     {
       "github": "https://uloved.github.com/"
