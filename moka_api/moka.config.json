@@ -1,0 +1,25 @@
+{
+    "theme": "moka",
+    "title": "SHIRLLEIGH Blog",
+    "favicon": "/moka-png.png",
+    "author": "Shirlleigh",
+    "description": "Shirlleigh Blog",
+    "siteName": "Shirlleigh site",
+
+    "deploy": [{
+        "type": "git",
+        "name": "origin",
+        "url": "https://github.com/uloved/uloved.github.io.git",
+        "branch": "master"
+    }, {
+        "type": "git",
+        "name": "oschina",
+        "url": "https://git.oschina.net/uloved/uloved.git",
+        "branch": "master"
+    }],
+    "bak": {
+        "type": "git",
+        "url": "https://github.com/uloved/blogsource.git",
+        "branch": "master"
+    }
+}
